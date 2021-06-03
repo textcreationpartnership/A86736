@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble desires of a free subject and true lover of the liberties of the three nations, of England Scotland, and Ireland, and of the dominions, and territories belonging to them; whereby to unite them in love, and amity.</title>
+            <author>Free subject.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86736</idno><idno type="EEBO-CITATION">99862776</idno>
+  <idno type="VID">168559</idno>
+  <idno type="EEBO-PROQUEST">2240903999</idno>
+  
+            <idno type="STC">Wing H3411</idno>
+            <idno type="STC">Thomason E980_8</idno>
+            <idno type="STC">ESTC R202526</idno>
+            <idno type="PROQUEST">99862776</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862776e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168559)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble desires of a free subject and true lover of the liberties of the three nations, of England Scotland, and Ireland, and of the dominions, and territories belonging to them; whereby to unite them in love, and amity.</title>
+                  <author>Free subject.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Fr. Coles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "May 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168559:1"/>
+            <p>THE Humble Desires OF A FREE SVBIECT AND True Lover of the Liberties of the three NATIONS, OF ENGLAND SCOTLAND, AND IRELAND, And of the Dominions, and Ter<g ref="char:EOLhyphen"/>ritories belonging to them; Whereby To unite them in Love, and Amity.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Fr. Coles,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168559:2"/>
+            <pb facs="tcp:168559:2"/>
+            <head>The humble desires of a free subject, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="desire">
+               <p>
+                  <seg rend="decorInit">I</seg>N the first place, he humbly desi<g ref="char:EOLhyphen"/>reth to know by what immedi<g ref="char:EOLhyphen"/>ate Power, and under whose Commands he and all other free people are to be subject to pay Cu<g ref="char:EOLhyphen"/>stoms, Taxes, and all other Leavies, and Im<g ref="char:EOLhyphen"/>positions; not that he hath the least desire to contradict, or resist any lawfull Power, but to satisfie himselfe and the people, and encourage them in giving obedience there<g ref="char:EOLhyphen"/>unto.</p>
+            </div>
+            <div n="2" type="desire">
+               <head>II.</head>
+               <p>Secondly, He doth then demand in the behalfe of the aforesaid people, that those who have such a Power, and are intrusted with it over all Liberties, Priviledges, Freedomes, Immunities, shall declare unto the World without any dissimulations, or mentall Reservations whatsoever; what the people shall trust unto from them as their Supreame or chiefe Governor, or o<g ref="char:EOLhyphen"/>ther subordinate Governors, and Magistrats
+<pb facs="tcp:168559:3"/> in the three Nations, whether Military or Civill.</p>
+            </div>
+            <div n="3" type="desire">
+               <head>III.</head>
+               <p>Thirdly, he desires that the said people may have a Parliament that shall be freely chosen, and without the exceptions of those who are intrusted to make choyce of them, as being men fearing God, and void of Co<g ref="char:EOLhyphen"/>vetousnesse, and Hypocrisie. And when the said persons so chosen shall sit in Parli<g ref="char:EOLhyphen"/>ament, he doth desire that they shall there Act freely, without the least molestation or interruption, and not to be opposed by the <hi>Lord Protector,</hi> or his Counsell, or the Ge<g ref="char:EOLhyphen"/>nerall, or any of the Generals of the Army, or Armies, either by Sea, or by Land, be<g ref="char:EOLhyphen"/>longing to the three Nations of the King<g ref="char:EOLhyphen"/>domes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions, and Territories thereto be<g ref="char:EOLhyphen"/>longing:</p>
+            </div>
+            <div n="4" type="desire">
+               <head>IV.</head>
+               <p>Fourthly, that the Parliament thus elect<g ref="char:EOLhyphen"/>ed, and assembled, they shall be desired to call unto account any whatsover, of what summe, or severall summes of mony, or monies they have received, and what
+<pb facs="tcp:168559:3"/> charges and expences, have been disbursed and laid out within these seven last years, or more, as they themselves shall think fit.</p>
+            </div>
+            <div n="5" type="desire">
+               <head>V.</head>
+               <p>Fifthly, that all persons whatsoever who have been intrusted by former Parliaments, or by the <hi>Lord Protector,</hi> or Council, or any others by their Commissions, shall be lyable to be called in question; and give unto the Parliament, or the Commitee for that pur<g ref="char:EOLhyphen"/>pose chosen, a faithfull, and a true account upon oath, of all those monies which from time to time they have been intrusted with, and what they have either received or dis<g ref="char:EOLhyphen"/>bursed, and what summes of mony they have still lying in their hands, for the use of the publick.</p>
+            </div>
+            <div n="6" type="desire">
+               <head>VI.</head>
+               <p>Sixthly, that not any of the said free peo<g ref="char:EOLhyphen"/>ple of the three Nations, and Territories thereto belonging, shall not be molested, or imprisoned, or have any violence offered to their persons; but shall have full power and liberty to seek for their redresse unto the Law, and the Courts of Iustice, according to the ancient constitutions of the Laws of
+<pb facs="tcp:168559:4"/> the three Nations, and the Dominions be<g ref="char:EOLhyphen"/>longing to them.</p>
+            </div>
+            <div n="7" type="desire">
+               <head>VII.</head>
+               <p>Seventhly, that the aforesaid people may have the free liberty of their consciences in Religion, provided they do not deny the Deity, or the three persons in the Trinity, or hold forth any thing that shall tend unto blasphemy, or prophanness, or is repugnant to the truth contained in the Word of God.</p>
+            </div>
+            <div n="8" type="desire">
+               <head>VIII.</head>
+               <p>Eighthly, that all those who heretofore have been opposite, or who have either actually borne armes, or privately and sini<g ref="char:EOLhyphen"/>sterly maintained, or upheld any thing that is contrary to this present Government, and shall for the time to come submit, and come in, and subscribe to be true and reall, and cordially faithfull, to the peace of these three Nations, and the establishment of this present Government; that then the said per<g ref="char:EOLhyphen"/>sons shall live quietly in their severall habi<g ref="char:EOLhyphen"/>tations, and vocations, and be admitted to be unmolested by those persons who are the Supreame Magistrates, as aforesaid.</p>
+            </div>
+            <div n="9" type="desire">
+               <pb facs="tcp:168559:4"/>
+               <head>IX.</head>
+               <p>Ninthly, that whereas Monopolies have been so prejudicial to the State, and so cry<g ref="char:EOLhyphen"/>ed down by Parliaments, that for the future they may be all taken away, and that there be no further grant for any Monopoly whatsoever, within these three Nations, or any part of the Territories, or Dominions belonging unto them.</p>
+            </div>
+            <div n="10" type="desire">
+               <head>X.</head>
+               <p>Tenthly, that all Cities, Townes, and Corporations, and all Manufactories shall enjoy their priviledges, freedomes, and im<g ref="char:EOLhyphen"/>munities, unles they be regulated to the con<g ref="char:EOLhyphen"/>trary by the Authority of the Parliament.</p>
+            </div>
+            <div n="11" type="desire">
+               <head>XI.</head>
+               <p>Eleventhly, that some way may bee found out to ease the people, if possible, of their taxes and burdens; and for the time to come that the taxes be so indifferently, and so proportionably laid, that a due regard be had unto the estates of every particular person; but those who are rich and men of quality &amp; substance, may be raised so much above them in the taxes and impositions, as they exceed them in their possessions and estates.</p>
+            </div>
+            <div n="12" type="desire">
+               <pb facs="tcp:168559:5"/>
+               <head>XII.</head>
+               <p>Twelfthly, that due incouragement be given to all schooles of good learning in the education of youth, and that the Ministers of the holy Word, such who as well in their conversation, as in their learning are wel qualified therunto, may have so li<g ref="char:EOLhyphen"/>beral a proportion of eternal things, as may be sui<g ref="char:EOLhyphen"/>table to their families, and the dignity of so great a calling.</p>
+            </div>
+            <div n="13" type="desire">
+               <head>XIII.</head>
+               <p>Lastly, for the better reducing of all men toge<g ref="char:EOLhyphen"/>ther, to a right temper, and to the better under<g ref="char:EOLhyphen"/>standing of one another, and for the the removing of all jealousies, discontents, and feares, that there shall be an Act of Grace, whereby to confirme the hearts of the people, and to conforme them to a free submission to one Government; that so the lawes of the Land may flourish and continue in their ancient Splendour and Vigour, and no noise, nor the fear of any noise of intestine Trumpets, or be Divisions heard amongst us, that we may all with as much joy as safety, sit in peace under the shadows of our own Vines, and feed on the fruits thereof with such an effectuall thanksgiving, that it may not serve only to resort and commend, but be a sanctified invitation to promote the happiness we enjoy.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
